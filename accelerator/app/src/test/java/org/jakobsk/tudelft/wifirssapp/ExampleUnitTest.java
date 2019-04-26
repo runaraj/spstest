@@ -1,4 +1,4 @@
-package com.example.accelerator;
+package org.jakobsk.tudelft.wifirssapp;
 
 import org.junit.Test;
 

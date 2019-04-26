@@ -1,4 +1,4 @@
-package com.example.accelerator;
+package org.jakobsk.tudelft.wifirssapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.accelerator", appContext.getPackageName());
+        assertEquals("org.jakobsk.tudelft.wifirssapp", appContext.getPackageName());
     }
 }
